@@ -1,0 +1,1 @@
+This first Odin Project, Recipes, is a test of my budding skills in HTML. No CSS is present yet, and will be added in the future when I am more technically proficient. This project will demonstrate my attempts at learning basic HTML elements through this section of the Foundations Course, incorporating images, lists and links (both absolute and relative).
